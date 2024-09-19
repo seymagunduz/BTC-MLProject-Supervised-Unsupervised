@@ -9,6 +9,7 @@ Kaggle Linki: https://www.kaggle.com/code/seymagunduz/btc-data-mlproject/edit
 Gözetümlü öğrenme algoritması olarak Karar Ağaçları (Decision Trees) kullanılmıştır.
 
 Projenin çıktısı:
+
 Mean Squared Error: 21690974.018393066
 R^2 Score: 0.9442286991184929
 ![image](https://github.com/user-attachments/assets/12b0e9d3-b844-458e-ac89-c2ce40c76a38)
@@ -17,6 +18,7 @@ R^2 Score: 0.9442286991184929
 Gözetimsiz öğrenme algoritmalarından (k-Means) Kümeleme kullanılmıştır.
 
 Projenin çıktısı:
+
 Silhouette Skoru: 0.6657006311976724
 
 ## Sonuç
