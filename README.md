@@ -14,14 +14,15 @@ R^2 Score: 0.9442286991184929
 
 ## Gözetimsiz Öğrenme
 Gözetimsiz öğrenme algoritmalarından (k-Means) Kümeleme kullanılmıştır.
+
 Projenin çıktısı:
 Silhouette Skoru: 0.6657006311976724
 
 ## Sonuç
 Bu model için birçok algoritma denenmiştir. Fakat en etkili olanı Karar Ağaçları (Decision Trees) algoritması olmuştur. 
-Aşırı Öğrenmeye Karşı Dayanıklılık
+ * Aşırı Öğrenmeye Karşı Dayanıklılık
 Ağaçların derinliğini sınırlamak (örneğin, maksimum derinlik belirleyerek) aşırı öğrenmeyi (overfitting) önlemeye yardımcı olur. Bu, modelin genelleme yeteneğini artırır.
-Hızlı Eğitim ve Tahmin
+* Hızlı Eğitim ve Tahmin
 Eğitim süresi genellikle kısadır ve büyük veri setlerinde bile hızlı bir şekilde tahmin yapabilir. Bu, zaman açısından avantaj sağlar.
-Esneklik
+* Esneklik
 Karar ağaçları, hem sınıflandırma hem de regresyon problemlerinde kullanılabilir. Bu, onları çok yönlü bir araç haline getirir
