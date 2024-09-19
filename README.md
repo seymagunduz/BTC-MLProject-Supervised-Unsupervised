@@ -1,4 +1,4 @@
-# Bitcoin tarihsel veri grafiğı ile gözetimli ve gözetimsiz öğrenme
+# Bitcoin tarihsel veri grafiği ile gözetimli ve gözetimsiz öğrenme
 This project was made for Aygaz Machine Learning Bootcamp.
 
 Kullanılan kaggle veri kümesi: https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data
